@@ -1,0 +1,155 @@
+2018-02-06 09:46:21,477:INFO:discord.client: on_ready has successfully been registered as an event
+2018-02-06 09:46:21,478:INFO:discord.client: on_command has successfully been registered as an event
+2018-02-06 09:46:21,478:INFO:discord.client: on_command_error has successfully been registered as an event
+2018-02-06 09:46:21,478:INFO:discord.client: on_message has successfully been registered as an event
+2018-02-06 09:46:21,478:INFO:discord.client: on_server_join has successfully been registered as an event
+2018-02-06 09:46:21,478:INFO:discord.client: on_member_join has successfully been registered as an event
+2018-02-06 09:46:21,478:INFO:discord.client: on_member_remove has successfully been registered as an event
+2018-02-06 09:46:21,479:INFO:discord.client: on_member_ban has successfully been registered as an event
+2018-02-06 09:46:21,479:INFO:discord.client: on_member_unban has successfully been registered as an event
+2018-02-06 09:46:21,479:INFO:discord.client: on_message_delete has successfully been registered as an event
+2018-02-06 09:46:21,479:INFO:discord.client: on_message_edit has successfully been registered as an event
+2018-02-06 09:46:21,479:INFO:discord.client: on_member_update has successfully been registered as an event
+2018-02-06 09:46:21,479:INFO:discord.client: on_server_update has successfully been registered as an event
+2018-02-06 09:49:18,263:INFO:discord.client: on_ready has successfully been registered as an event
+2018-02-06 09:49:18,263:INFO:discord.client: on_command has successfully been registered as an event
+2018-02-06 09:49:18,263:INFO:discord.client: on_command_error has successfully been registered as an event
+2018-02-06 09:49:18,263:INFO:discord.client: on_message has successfully been registered as an event
+2018-02-06 09:49:18,263:INFO:discord.client: on_server_join has successfully been registered as an event
+2018-02-06 09:49:18,263:INFO:discord.client: on_member_join has successfully been registered as an event
+2018-02-06 09:49:18,263:INFO:discord.client: on_member_remove has successfully been registered as an event
+2018-02-06 09:49:18,263:INFO:discord.client: on_member_ban has successfully been registered as an event
+2018-02-06 09:49:18,264:INFO:discord.client: on_member_unban has successfully been registered as an event
+2018-02-06 09:49:18,264:INFO:discord.client: on_message_delete has successfully been registered as an event
+2018-02-06 09:49:18,264:INFO:discord.client: on_message_edit has successfully been registered as an event
+2018-02-06 09:49:18,264:INFO:discord.client: on_member_update has successfully been registered as an event
+2018-02-06 09:49:18,264:INFO:discord.client: on_server_update has successfully been registered as an event
+2018-02-06 09:49:18,286:INFO:discord.client: logging in using static token
+2018-02-06 09:49:19,107:INFO:discord.gateway: Created websocket connected to wss://gateway.discord.gg?encoding=json&v=6
+2018-02-06 09:49:19,108:INFO:discord.gateway: sent the identify payload to create the websocket
+2018-02-06 09:49:22,742:INFO:discord.client: on_ready has successfully been registered as an event
+2018-02-06 09:49:22,743:INFO:discord.client: on_command has successfully been registered as an event
+2018-02-06 09:49:22,743:INFO:discord.client: on_command_error has successfully been registered as an event
+2018-02-06 09:49:22,743:INFO:discord.client: on_message has successfully been registered as an event
+2018-02-06 09:49:22,743:INFO:discord.client: on_server_join has successfully been registered as an event
+2018-02-06 09:49:22,743:INFO:discord.client: on_member_join has successfully been registered as an event
+2018-02-06 09:49:22,743:INFO:discord.client: on_member_remove has successfully been registered as an event
+2018-02-06 09:49:22,743:INFO:discord.client: on_member_ban has successfully been registered as an event
+2018-02-06 09:49:22,743:INFO:discord.client: on_member_unban has successfully been registered as an event
+2018-02-06 09:49:22,744:INFO:discord.client: on_message_delete has successfully been registered as an event
+2018-02-06 09:49:22,744:INFO:discord.client: on_message_edit has successfully been registered as an event
+2018-02-06 09:49:22,744:INFO:discord.client: on_member_update has successfully been registered as an event
+2018-02-06 09:49:22,744:INFO:discord.client: on_server_update has successfully been registered as an event
+2018-02-06 09:59:37,092:INFO:discord.client: on_ready has successfully been registered as an event
+2018-02-06 09:59:37,092:INFO:discord.client: on_command has successfully been registered as an event
+2018-02-06 09:59:37,092:INFO:discord.client: on_command_error has successfully been registered as an event
+2018-02-06 09:59:37,092:INFO:discord.client: on_message has successfully been registered as an event
+2018-02-06 09:59:37,092:INFO:discord.client: on_server_join has successfully been registered as an event
+2018-02-06 09:59:37,092:INFO:discord.client: on_member_join has successfully been registered as an event
+2018-02-06 09:59:37,092:INFO:discord.client: on_member_remove has successfully been registered as an event
+2018-02-06 09:59:37,092:INFO:discord.client: on_member_ban has successfully been registered as an event
+2018-02-06 09:59:37,093:INFO:discord.client: on_member_unban has successfully been registered as an event
+2018-02-06 09:59:37,093:INFO:discord.client: on_message_delete has successfully been registered as an event
+2018-02-06 09:59:37,093:INFO:discord.client: on_message_edit has successfully been registered as an event
+2018-02-06 09:59:37,093:INFO:discord.client: on_member_update has successfully been registered as an event
+2018-02-06 09:59:37,093:INFO:discord.client: on_server_update has successfully been registered as an event
+2018-02-06 09:59:37,109:INFO:discord.client: logging in using static token
+2018-02-06 09:59:37,794:INFO:discord.gateway: Created websocket connected to wss://gateway.discord.gg?encoding=json&v=6
+2018-02-06 09:59:37,796:INFO:discord.gateway: sent the identify payload to create the websocket
+2018-02-06 09:59:39,945:INFO:discord.client: on_ready has successfully been registered as an event
+2018-02-06 09:59:39,945:INFO:discord.client: on_command has successfully been registered as an event
+2018-02-06 09:59:39,946:INFO:discord.client: on_command_error has successfully been registered as an event
+2018-02-06 09:59:39,946:INFO:discord.client: on_message has successfully been registered as an event
+2018-02-06 09:59:39,946:INFO:discord.client: on_server_join has successfully been registered as an event
+2018-02-06 09:59:39,946:INFO:discord.client: on_member_join has successfully been registered as an event
+2018-02-06 09:59:39,946:INFO:discord.client: on_member_remove has successfully been registered as an event
+2018-02-06 09:59:39,946:INFO:discord.client: on_member_ban has successfully been registered as an event
+2018-02-06 09:59:39,946:INFO:discord.client: on_member_unban has successfully been registered as an event
+2018-02-06 09:59:39,947:INFO:discord.client: on_message_delete has successfully been registered as an event
+2018-02-06 09:59:39,947:INFO:discord.client: on_message_edit has successfully been registered as an event
+2018-02-06 09:59:39,947:INFO:discord.client: on_member_update has successfully been registered as an event
+2018-02-06 09:59:39,947:INFO:discord.client: on_server_update has successfully been registered as an event
+2018-02-06 11:20:31,265:INFO:discord.client: on_ready has successfully been registered as an event
+2018-02-06 11:20:31,265:INFO:discord.client: on_command has successfully been registered as an event
+2018-02-06 11:20:31,265:INFO:discord.client: on_command_error has successfully been registered as an event
+2018-02-06 11:20:31,265:INFO:discord.client: on_message has successfully been registered as an event
+2018-02-06 11:20:31,265:INFO:discord.client: on_server_join has successfully been registered as an event
+2018-02-06 11:20:31,265:INFO:discord.client: on_member_join has successfully been registered as an event
+2018-02-06 11:20:31,266:INFO:discord.client: on_member_remove has successfully been registered as an event
+2018-02-06 11:20:31,266:INFO:discord.client: on_member_ban has successfully been registered as an event
+2018-02-06 11:20:31,266:INFO:discord.client: on_member_unban has successfully been registered as an event
+2018-02-06 11:20:31,266:INFO:discord.client: on_message_delete has successfully been registered as an event
+2018-02-06 11:20:31,266:INFO:discord.client: on_message_edit has successfully been registered as an event
+2018-02-06 11:20:31,266:INFO:discord.client: on_member_update has successfully been registered as an event
+2018-02-06 11:20:31,267:INFO:discord.client: on_server_update has successfully been registered as an event
+2018-02-06 11:20:31,286:INFO:discord.client: logging in using static token
+2018-02-06 11:20:32,063:INFO:discord.gateway: Created websocket connected to wss://gateway.discord.gg?encoding=json&v=6
+2018-02-06 11:20:32,064:INFO:discord.gateway: sent the identify payload to create the websocket
+2018-02-06 11:20:34,274:INFO:discord.client: on_ready has successfully been registered as an event
+2018-02-06 11:20:34,274:INFO:discord.client: on_command has successfully been registered as an event
+2018-02-06 11:20:34,274:INFO:discord.client: on_command_error has successfully been registered as an event
+2018-02-06 11:20:34,274:INFO:discord.client: on_message has successfully been registered as an event
+2018-02-06 11:20:34,274:INFO:discord.client: on_server_join has successfully been registered as an event
+2018-02-06 11:20:34,274:INFO:discord.client: on_member_join has successfully been registered as an event
+2018-02-06 11:20:34,274:INFO:discord.client: on_member_remove has successfully been registered as an event
+2018-02-06 11:20:34,274:INFO:discord.client: on_member_ban has successfully been registered as an event
+2018-02-06 11:20:34,274:INFO:discord.client: on_member_unban has successfully been registered as an event
+2018-02-06 11:20:34,275:INFO:discord.client: on_message_delete has successfully been registered as an event
+2018-02-06 11:20:34,275:INFO:discord.client: on_message_edit has successfully been registered as an event
+2018-02-06 11:20:34,275:INFO:discord.client: on_member_update has successfully been registered as an event
+2018-02-06 11:20:34,275:INFO:discord.client: on_server_update has successfully been registered as an event
+2018-02-06 18:23:55,527:INFO:discord.gateway: Websocket closed with 1006 (), attempting a reconnect.
+2018-02-06 18:23:55,528:INFO:discord.client: Got ResumeWebSocket
+2018-02-06 18:25:40,029:INFO:discord.client: on_ready has successfully been registered as an event
+2018-02-06 18:25:40,029:INFO:discord.client: on_command has successfully been registered as an event
+2018-02-06 18:25:40,030:INFO:discord.client: on_command_error has successfully been registered as an event
+2018-02-06 18:25:40,030:INFO:discord.client: on_message has successfully been registered as an event
+2018-02-06 18:25:40,030:INFO:discord.client: on_server_join has successfully been registered as an event
+2018-02-06 18:25:40,030:INFO:discord.client: on_member_join has successfully been registered as an event
+2018-02-06 18:25:40,030:INFO:discord.client: on_member_remove has successfully been registered as an event
+2018-02-06 18:25:40,030:INFO:discord.client: on_member_ban has successfully been registered as an event
+2018-02-06 18:25:40,030:INFO:discord.client: on_member_unban has successfully been registered as an event
+2018-02-06 18:25:40,030:INFO:discord.client: on_message_delete has successfully been registered as an event
+2018-02-06 18:25:40,030:INFO:discord.client: on_message_edit has successfully been registered as an event
+2018-02-06 18:25:40,031:INFO:discord.client: on_member_update has successfully been registered as an event
+2018-02-06 18:25:40,031:INFO:discord.client: on_server_update has successfully been registered as an event
+2018-02-06 18:25:40,054:INFO:discord.client: logging in using static token
+2018-02-06 18:25:40,857:INFO:discord.gateway: Created websocket connected to wss://gateway.discord.gg?encoding=json&v=6
+2018-02-06 18:25:40,859:INFO:discord.gateway: sent the identify payload to create the websocket
+2018-02-06 18:25:43,037:INFO:discord.client: on_ready has successfully been registered as an event
+2018-02-06 18:25:43,037:INFO:discord.client: on_command has successfully been registered as an event
+2018-02-06 18:25:43,038:INFO:discord.client: on_command_error has successfully been registered as an event
+2018-02-06 18:25:43,038:INFO:discord.client: on_message has successfully been registered as an event
+2018-02-06 18:25:43,038:INFO:discord.client: on_server_join has successfully been registered as an event
+2018-02-06 18:25:43,038:INFO:discord.client: on_member_join has successfully been registered as an event
+2018-02-06 18:25:43,038:INFO:discord.client: on_member_remove has successfully been registered as an event
+2018-02-06 18:25:43,038:INFO:discord.client: on_member_ban has successfully been registered as an event
+2018-02-06 18:25:43,038:INFO:discord.client: on_member_unban has successfully been registered as an event
+2018-02-06 18:25:43,038:INFO:discord.client: on_message_delete has successfully been registered as an event
+2018-02-06 18:25:43,038:INFO:discord.client: on_message_edit has successfully been registered as an event
+2018-02-06 18:25:43,038:INFO:discord.client: on_member_update has successfully been registered as an event
+2018-02-06 18:25:43,039:INFO:discord.client: on_server_update has successfully been registered as an event
+2018-02-06 18:42:12,274:INFO:discord.http: We are being rate limited. Retrying in 4.3 seconds. Handled under the bucket "messages:405811180897042432"
+2018-02-06 18:42:17,580:INFO:discord.http: We are being rate limited. Retrying in 4.2 seconds. Handled under the bucket "messages:405811180897042432"
+2018-02-06 18:44:54,082:INFO:discord.http: We are being rate limited. Retrying in 4.2 seconds. Handled under the bucket "messages:405811180897042432"
+2018-02-06 18:44:59,092:INFO:discord.http: We are being rate limited. Retrying in 4.2 seconds. Handled under the bucket "messages:405811180897042432"
+2018-02-06 18:45:05,891:INFO:discord.http: We are being rate limited. Retrying in 2.7 seconds. Handled under the bucket "messages:405811180897042432"
+2018-02-06 18:45:10,293:INFO:discord.http: We are being rate limited. Retrying in 3.4 seconds. Handled under the bucket "messages:405811180897042432"
+2018-02-06 18:45:15,815:INFO:discord.http: We are being rate limited. Retrying in 3.0 seconds. Handled under the bucket "messages:405811180897042432"
+2018-02-06 18:45:20,367:INFO:discord.http: We are being rate limited. Retrying in 3.6 seconds. Handled under the bucket "messages:405811180897042432"
+2018-02-06 18:45:38,149:INFO:discord.http: We are being rate limited. Retrying in 3.5 seconds. Handled under the bucket "messages:405811180897042432"
+2018-02-06 18:45:43,287:INFO:discord.http: We are being rate limited. Retrying in 3.5 seconds. Handled under the bucket "messages:405811180897042432"
+2018-02-06 18:46:09,467:INFO:discord.http: We are being rate limited. Retrying in 4.0 seconds. Handled under the bucket "messages:405811180897042432"
+2018-02-06 18:46:14,496:INFO:discord.http: We are being rate limited. Retrying in 4.2 seconds. Handled under the bucket "messages:405811180897042432"
+2018-02-06 18:48:09,135:INFO:discord.http: We are being rate limited. Retrying in 4.2 seconds. Handled under the bucket "messages:405811180897042432"
+2018-02-06 18:48:14,333:INFO:discord.http: We are being rate limited. Retrying in 4.1 seconds. Handled under the bucket "messages:405811180897042432"
+2018-02-06 18:48:19,961:INFO:discord.http: We are being rate limited. Retrying in 3.6 seconds. Handled under the bucket "messages:405811180897042432"
+2018-02-06 18:48:26,375:INFO:discord.http: We are being rate limited. Retrying in 2.5 seconds. Handled under the bucket "messages:405811180897042432"
+2018-02-06 18:48:30,644:INFO:discord.http: We are being rate limited. Retrying in 3.3 seconds. Handled under the bucket "messages:405811180897042432"
+2018-02-06 18:48:34,867:INFO:discord.http: We are being rate limited. Retrying in 4.2 seconds. Handled under the bucket "messages:405811180897042432"
+2018-02-06 18:48:54,326:INFO:discord.http: We are being rate limited. Retrying in 4.0 seconds. Handled under the bucket "messages:405811180897042432"
+2018-02-06 18:48:59,192:INFO:discord.http: We are being rate limited. Retrying in 4.3 seconds. Handled under the bucket "messages:405811180897042432"
+2018-02-06 18:49:05,468:INFO:discord.http: We are being rate limited. Retrying in 3.2 seconds. Handled under the bucket "messages:405811180897042432"
+2018-02-06 18:49:10,177:INFO:discord.http: We are being rate limited. Retrying in 3.6 seconds. Handled under the bucket "messages:405811180897042432"
+2018-02-06 18:49:17,100:INFO:discord.http: We are being rate limited. Retrying in 1.8 seconds. Handled under the bucket "messages:405811180897042432"
+2018-02-06 18:49:20,849:INFO:discord.http: We are being rate limited. Retrying in 3.2 seconds. Handled under the bucket "messages:405811180897042432"
